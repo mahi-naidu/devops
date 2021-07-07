@@ -1,0 +1,4 @@
+sns-create name-standards-write a mail contenet-create
+subscription-protocal(email)-endpoint(email address)-create subscription
+cloudwatch-events-getstart-create rule-servese name(ec2)-sns topic(sns alaram name)
+-create
